@@ -1,9 +1,9 @@
 class Contain < Formula
   desc "Contain your dev environments"
   homepage "https://github.com/jpettersson/contain"
-  url "https://github.com/jpettersson/contain/archive/0.3.0.tar.gz"
-  version "0.3.0"
-  sha256 "09309fb2dda34484439d4384703046c353a1e95f178726c4a1af2d082928cf69"
+  url "https://github.com/jpettersson/contain/archive/0.3.1.tar.gz"
+  version "0.3.1"
+  sha256 "e4d4a8ac8b71f27bac163551f648cee923025659b9b3b3315890bedd19fb1494"
 
   depends_on "rust" => :build
 
